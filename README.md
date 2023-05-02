@@ -1,5 +1,8 @@
 In this project, let's perform **Fetch and Routing** by applying the concepts we have learned till now.
 
+<h2>View WebApp at: </h2>
+<p>https://vmcblogsrouting.ccbp.tech/</p>
+
 ### Refer to the image below:
 
 <br/>
